@@ -1,0 +1,18 @@
+#searchBar {
+  margin: 15px 10px;
+}
+body {
+    background-color: #4cdbd4;
+    background-image: url("https://www.transparenttextures.com/patterns/subtle-dark-vertical.png");
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+.jumbotron {
+    background-color: lightgray;
+    color: black;
+    text-shadow: -1px -1px #000;
+}
